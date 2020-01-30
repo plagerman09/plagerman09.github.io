@@ -3,6 +3,10 @@
   * Secondary Color: Grey
 */
 
+body{
+  background: chartreuse;
+}
+
 h1{
   color: coral;
   font-family: 'Alata', sans-serif;
