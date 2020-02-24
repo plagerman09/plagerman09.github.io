@@ -10,12 +10,19 @@ body{
 h1{
   color: coral;
   font-family: 'Alata', sans-serif;
-  font-size: 48px;
+  font-size: 3rem;
   letter-spacing: 6px;
   text-align: center;
   
 }
 
+h2 {
+  color: lightgrey;
+  font-family: 'Alata', sans-serif;
+  font-size: 4rem;
+  letter-spacing: 6px;
+  text-align: center;
+}
 
 /* Typography 
   * Primary Fonts: font-family: 'Alata', sans-serif;
