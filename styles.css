@@ -24,6 +24,13 @@ h2{
   text-align: center;
 }
 
+p{
+  color: coral;
+  padding-top: 10px;
+  font-family: 'Lato', ;
+  font-size: 1rem;
+  
+}
 /* Typography 
   * Primary Fonts: font-family: 'Alata', sans-serif;
 */
