@@ -38,6 +38,10 @@ p{
   align-items: center;
 }
 
+.first p {
+  padding: 5px;
+}
+
 img{
   width: 100%;
   height: 100%;
