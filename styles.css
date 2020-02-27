@@ -32,18 +32,12 @@ p{
 
 }
 
-.first {
-  display: grid;
-  grid-template-rows: 1em 2em 1em;
-  grid-template-columns: 1em 2em 1em;
-
-
-}
-
 img{
   width: 75%;
   height: 75%;
-  position: absolute;
+  display: flex;
+  justify-content: center; 
+  align-items: center;
 
 }
 /* Typography 
@@ -57,13 +51,6 @@ main {
   margin: 0 auto;
   width: 90%;
     
-  display: grid;
-  grid-template-columns: 1fr;
-}
-
-main img {
-
-  grid-column: 1 / 1;
 }
 
 
