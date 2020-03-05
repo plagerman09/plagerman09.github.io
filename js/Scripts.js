@@ -1,1 +1,1 @@
-console.log('OK');
+console.log('Fool of a Took');
