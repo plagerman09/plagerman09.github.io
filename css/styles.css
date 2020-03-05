@@ -47,6 +47,11 @@ img{
   width: 100%;
   height: 100%;
 }
+
+button {
+  color: slategray;
+  padding: 4px;
+}
 /* Typography 
   * Primary Fonts: font-family: 'Alata', sans-serif;
 */
