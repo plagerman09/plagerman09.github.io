@@ -103,18 +103,18 @@ h3 {
 
 .thumbs li:nth-child(1) img {
   border: 10px solid red; 
-  margin-right: 1rem; 
+  padding-right: 1rem; 
 }
 
 .thumbs li:nth-child(2) img {
   border: 10px solid green;  
-  margin-right: 1rem;
-  margin-left: 1rem;
+  padding-right: 1rem;
+  padding-left: 1rem;
 }
 
 .thumbs li:nth-child(3) img {
   border: 10px solid blue;  
-  margin-left: 1rem;
+  padding-left: 1rem;
 }
 
 /* Change Borders of Full Size Images */ 
