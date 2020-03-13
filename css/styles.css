@@ -79,6 +79,7 @@ h3 {
   position: absolute;
   top: 40px;
   left: 40px;
+  background: grey;
 }
 
 /* Use :nth-child to add borders to 1st, 2nd, 3rd */
