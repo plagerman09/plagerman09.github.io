@@ -47,7 +47,8 @@ p{
 img{
   position: relative;
   width: 100%;
- 
+  background: grey;
+  margin-bottom: 2rem;
 }
 
 button {
