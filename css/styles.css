@@ -98,6 +98,7 @@ h3 {
 .thumbs {
     display: flex;
     justify-content: space-evenly;
+    margin: auto;
 }
 
 .thumbs li:nth-child(1) img {
