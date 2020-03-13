@@ -2,9 +2,6 @@
   * Primary Color: Light Red
   * Secondary Color: Grey
 */
-#guitar{
-  z-index: -1;
-}
 
 body{
   background: grey;
