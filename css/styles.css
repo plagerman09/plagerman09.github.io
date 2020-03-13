@@ -129,7 +129,7 @@ h3 {
 
 .fullsize img {
   opacity: 0;
-  /* width: 50%; */
+  width: 50%;
 }
 
 .fullsize img:target  {
