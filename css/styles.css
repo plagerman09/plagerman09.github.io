@@ -75,7 +75,7 @@ h3 {
   position: relative;
   background: grey;
   padding: 2.5rem;
-  margin: 6.25rem auto;
+  margin: 6.25rem auto auto auto;
 }
 
 .fullsize img {
