@@ -102,18 +102,16 @@ h3 {
 
 .thumbs li:nth-child(1) img {
   border: 5px solid coral; 
-  margin-right: 1rem; 
+
 }
 
 .thumbs li:nth-child(2) img {
   border: 5px solid lightblue;  
-  margin-right: 1rem;
-  margin-left: 1rem;
+
 }
 
 .thumbs li:nth-child(3) img {
   border: 5px solid orange;  
-  margin-left: 1rem;
 }
 
 /* Change Borders of Full Size Images */ 
