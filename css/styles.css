@@ -116,15 +116,15 @@ h3 {
 
 /* Change Borders of Full Size Images */ 
 #fullsize-1 {
-  border: 5px solid red;
+  border: 5px solid coral;
 }
 
 #fullsize-2 {
-  border: 5px solid green;
+  border: 5px solid lightblue;
 }
 
 #fullsize-3 {
-  border: 5px solid blue;
+  border: 5px solid orange;
 }
 
 .fullsize img {
