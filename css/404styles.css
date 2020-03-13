@@ -1,7 +1,5 @@
 body {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
+
     background: grey;
 }
 
@@ -12,4 +10,10 @@ h1{
 
 h2 {
     font-family: 'Alata', sans-serif;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 }
