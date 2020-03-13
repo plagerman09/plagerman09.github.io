@@ -97,7 +97,6 @@ h3 {
 
 .thumbs {
     display: flex;
-    justify-content: space-evenly;
     flex-direction: row;
 }
 
