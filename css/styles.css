@@ -139,6 +139,9 @@ h3 {
   transition: opacity .5s;
 }
 
+.description {
+  margin-bottom: -2rem;
+}
 
 /* Mobile 
   0 to 26em (416 pixels)
