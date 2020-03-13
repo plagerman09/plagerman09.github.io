@@ -6,16 +6,19 @@ body {
 h1{
     font-family: 'Alata', sans-serif;
     font-size: 4rem;
+    margin: auto;
 }
 
 h2 {
     font-family: 'Alata', sans-serif;
     font-size: 3rem;
+    margin: auto;
 }
 
 h3 {
     font-family: 'Alata', sans-serif;
     font-size: 2rem;
+    margin: auto;
 }
 
 .container {
