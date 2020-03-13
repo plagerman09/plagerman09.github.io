@@ -102,32 +102,32 @@ h3 {
 }
 
 .thumbs li:nth-child(1) img {
-  border: 10px solid red; 
-  padding-right: 1rem; 
+  border: 5px solid coral; 
+  margin-right: 1rem; 
 }
 
 .thumbs li:nth-child(2) img {
-  border: 10px solid green;  
-  padding-right: 1rem;
-  padding-left: 1rem;
+  border: 5px solid lightblue;  
+  margin-right: 1rem;
+  margin-left: 1rem;
 }
 
 .thumbs li:nth-child(3) img {
-  border: 10px solid blue;  
-  padding-left: 1rem;
+  border: 5px solid orange;  
+  margin-left: 1rem;
 }
 
 /* Change Borders of Full Size Images */ 
 #fullsize-1 {
-  border: 10px solid red;
+  border: 5px solid red;
 }
 
 #fullsize-2 {
-  border: 10px solid green;
+  border: 5px solid green;
 }
 
 #fullsize-3 {
-  border: 10px solid blue;
+  border: 5px solid blue;
 }
 
 .fullsize img {
