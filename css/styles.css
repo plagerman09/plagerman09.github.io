@@ -98,19 +98,22 @@ h3 {
 .thumbs {
     display: flex;
     justify-content: space-evenly;
-    margin: auto;
+    
 }
 
 .thumbs li:nth-child(1) img {
-  border: 10px solid red;  
+  border: 10px solid red; 
+  margin: auto; 
 }
 
 .thumbs li:nth-child(2) img {
   border: 10px solid green;  
+  margin: auto;
 }
 
 .thumbs li:nth-child(3) img {
   border: 10px solid blue;  
+  margin: auto;
 }
 
 /* Change Borders of Full Size Images */ 
