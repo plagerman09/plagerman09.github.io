@@ -2,6 +2,9 @@
   * Primary Color: Light Red
   * Secondary Color: Grey
 */
+.background{
+  z-index: -1;
+}
 
 body{
   background: grey;
