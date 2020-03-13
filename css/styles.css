@@ -88,6 +88,13 @@ h3 {
 }
 
 /* Use :nth-child to add borders to 1st, 2nd, 3rd */
+.gallery {
+  background: grey;
+  width: 75%;
+  padding: 2.5rem;
+  margin: 6.25rem auto;
+}
+
 .thumbs {
     display: flex;
     justify-content: space-evenly;
