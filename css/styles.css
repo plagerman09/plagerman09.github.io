@@ -98,7 +98,7 @@ h3 {
 .thumbs {
     display: flex;
     justify-content: space-evenly;
-    
+    flex-direction: row;
 }
 
 .thumbs li:nth-child(1) img {
