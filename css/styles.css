@@ -73,13 +73,16 @@ h3 {
 
 .fullsize {
   position: relative;
+  background: grey;
+  padding: 2.5rem;
+  margin: 6.25rem auto;
 }
 
 .fullsize img {
   position: absolute;
   top: 40px;
   left: 40px;
-  background: grey;
+ 
 }
 
 h3 {
