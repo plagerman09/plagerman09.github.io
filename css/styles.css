@@ -19,6 +19,13 @@ body{
   margin: 6.25rem auto;
 }
 
+.gallery{
+    background: gray;
+    width: 75%;
+    padding: 2.5rem;
+    margin: 6.25rem auto;
+}
+
 h1{
   color: coral;
   font-family: 'Alata', sans-serif;
