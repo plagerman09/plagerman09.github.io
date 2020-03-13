@@ -19,15 +19,6 @@ body{
   margin: 6.25rem auto;
 }
 
-.gallery{
-  display: flex;
-  justify-content: space-evenly;
-    background: gray;
-    width: 75%;
-    padding: 2.5rem;
-    margin: 6.25rem auto;
-}
-
 h1{
   color: coral;
   font-family: 'Alata', sans-serif;
@@ -97,6 +88,15 @@ h3 {
 }
 
 /* Use :nth-child to add borders to 1st, 2nd, 3rd */
+.thumbs {
+    display: flex;
+    justify-content: space-evenly;
+    background: gray;
+    width: 75%;
+    padding: 2.5rem;
+    margin: 6.25rem auto;
+}
+
 .thumbs li:nth-child(1) img {
   border: 10px solid red;  
 }
