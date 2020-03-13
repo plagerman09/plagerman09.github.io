@@ -5,7 +5,8 @@
 
 body{
   background-image: url(https://media.istockphoto.com/vectors/snowboarding-and-skiing-seamless-pattern-winter-sport-activities-on-vector-id1055177664);
-  opacity: 50%;
+  background-size: cover;
+  background-attachment: fixed;
 }
 
 .content {
