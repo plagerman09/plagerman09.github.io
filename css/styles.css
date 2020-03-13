@@ -82,6 +82,10 @@ h3 {
   background: grey;
 }
 
+h3 {
+  font-family: 'Lato', sans-serif;
+}
+
 /* Use :nth-child to add borders to 1st, 2nd, 3rd */
 .gallery {
   background: grey;
