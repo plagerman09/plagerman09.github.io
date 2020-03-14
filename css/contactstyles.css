@@ -4,6 +4,10 @@ body {
     background-attachment: fixed;
 }
 
+label {
+    font-family: 'Alata', sans-serif;
+}
+
 .content {
     display: flex;
     flex-direction: column;
