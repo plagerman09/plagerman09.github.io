@@ -8,6 +8,14 @@ label {
     font-family: 'Alata', sans-serif;
 }
 
+button {
+    font-family: 'Alata', sans-serif;
+}
+
+input {
+    font-family: 'Alata', sans-serif;
+}
+
 .content {
     display: flex;
     flex-direction: column;
