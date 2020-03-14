@@ -117,7 +117,7 @@ h3 {
 }
 
 .thumbs li:nth-child(4) img {
-  border: 5px solid blue;  
+  border: 5px solid lightseagreen;  
 }
 /* Change Borders of Full Size Images */ 
 #fullsize-1 {
@@ -133,7 +133,7 @@ h3 {
 }
 
 #fullsize-4 {
-  border: 5px solid blue;
+  border: 5px solid lightseagreen;
 }
 
 .fullsize img {
