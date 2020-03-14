@@ -116,6 +116,9 @@ h3 {
   border: 5px solid orange;  
 }
 
+.thumbs li:nth-child(4) img {
+  border: 5px solid blue;  
+}
 /* Change Borders of Full Size Images */ 
 #fullsize-1 {
   border: 5px solid coral;
@@ -127,6 +130,10 @@ h3 {
 
 #fullsize-3 {
   border: 5px solid orange;
+}
+
+#fullsize-4 {
+  border: 5px solid blue;
 }
 
 .fullsize img {
